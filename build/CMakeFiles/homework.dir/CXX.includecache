@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/cipher.hpp
+iostream
+-
+fstream
+-
+bitset
+-
+iomanip
+-
+string
+-
+cmath
+-
+
+C:/Users/Casper/Desktop/md5-cplusplus/src/main.cpp
+cipher.hpp
+C:/Users/Casper/Desktop/md5-cplusplus/src/cipher.hpp
+

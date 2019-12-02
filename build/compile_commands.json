@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Casper/Desktop/md5-cplusplus/build",
+  "command": "C:/MinGW/bin/g++.exe   @CMakeFiles/homework.dir/includes_CXX.rsp -g   -o CMakeFiles/homework.dir/src/main.cpp.obj -c C:/Users/Casper/Desktop/md5-cplusplus/src/main.cpp",
+  "file": "C:/Users/Casper/Desktop/md5-cplusplus/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Casper/Desktop/md5-cplusplus/build",
+  "command": "C:/MinGW/bin/g++.exe   @CMakeFiles/homework.dir/includes_CXX.rsp -g   -o CMakeFiles/homework.dir/src/cipher.cpp.obj -c C:/Users/Casper/Desktop/md5-cplusplus/src/cipher.cpp",
+  "file": "C:/Users/Casper/Desktop/md5-cplusplus/src/cipher.cpp"
+}
+]

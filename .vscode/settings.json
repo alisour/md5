@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "new": "cpp",
+        "iosfwd": "cpp",
+        "xiosbase": "cpp",
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "random": "cpp",
+        "istream": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "ios": "cpp",
+        "xlocbuf": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "git.ignoreLimitWarning": true
+}
